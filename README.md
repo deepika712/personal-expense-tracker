@@ -6,7 +6,7 @@ A web application to track personal expenses and income.
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dhyana712/personal-expense-tracker.git
+   git clone https://github.com/deepika712/personal-expense-tracker.git
 2.Navigate to the project directory:
     cd personal-expense-tracker
 3.Install the required dependencies:
